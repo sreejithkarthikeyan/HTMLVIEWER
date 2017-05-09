@@ -7,5 +7,5 @@ Application create thumbnail images for several HTML pages inside a folder, so t
 By using this tool the designer / developer can easily find html design .
 
 
-###Download Links
-#####Adobe AIR [Download](https://get.adobe.com/air/).
+### Download Links
+##### Adobe AIR [Download](https://get.adobe.com/air/).
